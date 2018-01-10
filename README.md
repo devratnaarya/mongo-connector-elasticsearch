@@ -5,4 +5,8 @@ Two collection in mongo db:
 1. Variant
 2. Facility_variant
 
+More info:
+
+https://github.com/mongodb-labs/mongo-connector
+
 
