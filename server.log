@@ -1,0 +1,16 @@
+2017-12-20 17:07:56,652 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2017-12-20 17:07:56,652 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2017-12-20 17:07:56,654 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 11858
+2017-12-20 17:07:56,655 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2017-12-20 17:07:56,656 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 11859, exiting
+2017-12-20 17:07:56,657 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2017-12-20 17:07:56,658 [DEBUG] mongo_orchestration.server:128 - Starting HTTP server on host: localhost; port: 8889
+2017-12-20 17:09:07,345 [DEBUG] mongo_orchestration.apps:64 - base_uri((), {})
+2017-12-20 17:09:07,346 [DEBUG] mongo_orchestration.apps.servers:61 - base_uri()
+2017-12-20 17:09:07,346 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2017-12-20 17:10:03,869 [DEBUG] mongo_orchestration.apps:64 - host_info((), {'host_id': 'myServer'})
+2017-12-20 17:10:03,869 [DEBUG] mongo_orchestration.apps.servers:118 - host_info(myServer)
+2017-12-20 17:10:03,869 [DEBUG] mongo_orchestration.apps:55 - send_result(404)
+2017-12-20 17:10:09,555 [DEBUG] mongo_orchestration.apps:64 - base_uri((), {})
+2017-12-20 17:10:09,555 [DEBUG] mongo_orchestration.apps.servers:61 - base_uri()
+2017-12-20 17:10:09,555 [DEBUG] mongo_orchestration.apps:55 - send_result(200)

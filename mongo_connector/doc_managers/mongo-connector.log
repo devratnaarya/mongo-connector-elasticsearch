@@ -1,0 +1,8 @@
+2017-12-20 22:22:46,478 [ALWAYS] mongo_connector.connector:51 - Starting mongo-connector version: 2.5.2.dev0
+2017-12-20 22:22:46,479 [WARNING] mongo_connector.connector:1247 - This is a development version (2.5.2.dev0) of mongo-connector
+2017-12-20 22:22:46,479 [ALWAYS] mongo_connector.connector:51 - Python version: 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 12:39:47) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+2017-12-20 22:22:46,489 [ALWAYS] mongo_connector.connector:51 - Platform: Darwin-17.2.0-x86_64-i386-64bit
+2017-12-20 22:22:46,489 [ALWAYS] mongo_connector.connector:51 - pymongo version: 3.4.0
+2017-12-20 22:22:46,495 [ALWAYS] mongo_connector.connector:51 - Source MongoDB version: 3.4.9
+2017-12-20 22:22:46,495 [ALWAYS] mongo_connector.connector:51 - Target DocManager: mongo_connector.doc_managers.elastic2_doc_manager version: unknown

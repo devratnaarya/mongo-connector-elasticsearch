@@ -1,0 +1,19 @@
+pymongo >= 2.9
+
+[elastic]
+elastic-doc-manager
+
+[elastic2-aws]
+elastic2-doc-manager[elastic2,aws]
+
+[elastic2]
+elastic2-doc-manager[elastic2]
+
+[elastic-aws]
+elastic-doc-manager[aws]
+
+[solr]
+solr-doc-manager
+
+[elastic5]
+elastic2-doc-manager[elastic5]
